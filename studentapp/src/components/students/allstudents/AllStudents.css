@@ -1,0 +1,44 @@
+.container-students{
+    background-color: rgb(102, 179 , 47 );
+   overflow: hidden;
+}
+/* .pt-5{
+    margin-top: 15px;
+} */
+
+.row{
+    margin-top: 200px;
+    /* position: relative; */
+    display: flex;
+    align-items: center;
+    
+}
+.card{
+    
+    box-shadow: rgb(38, 33, 33) 3px 6px 8px 1px;
+    margin: auto;
+    background-color: #174b4f;
+    width: 20rem;
+    /* position: relative; */
+  
+
+}
+
+.card-img-top{
+ position: absolute;
+ height: 180px;
+}
+.image{
+    position: relative;
+    border-radius: 50%;
+    width: 12rem;
+    margin-top: 80px;
+    vertical-align: middle;
+    left: auto;
+    margin-left: auto;
+    margin-right: auto;
+    box-shadow: 0px 4px 7px 0px #080b0b;
+}
+.col{
+    width: 12rem;
+}

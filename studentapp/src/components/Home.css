@@ -1,0 +1,14 @@
+.home-container{
+    background-image: url("../components/students/sign-up/books.jpeg");
+    text-align: center;
+    background-size: cover;
+    /* position: fixed; */
+    margin-top: 0%;
+   padding-bottom: 50rem;
+}
+.home-greeting{
+    /* margin-top: 20rem; */
+    padding-top: 18rem;
+    font-size: 5rem;
+    color: DimGrey;
+}

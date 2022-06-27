@@ -1,0 +1,44 @@
+.container{
+    text-align: center;
+    height: 20rem;
+    width: 100%;
+    
+    
+    
+    background-image: url("../../../web-designer-2443766_1280.jpg");
+    background-repeat: no-repeat;
+    background-size:cover;
+    min-width: 100%;
+    min-height: 100%;
+    
+    background-position: center;
+    position: fixed; 
+padding-top: 19rem;
+padding-bottom: 5rem;
+
+}
+
+.input-group{
+    padding-bottom: 1rem;
+    align-items: center;
+}
+
+.regisration{
+    text-align: center;
+    height: 400px;
+    width: 380px;
+    /* margin: auto; */
+    border-radius: 20px;
+    background: rgba(0, 0, 0, 0.4);
+    position: relative;
+    align-items: center;
+    align-items: flex-end;
+}
+
+.signup-header{
+    color: white;
+}
+
+.submit-buton{
+    margin-top: 2rem;
+}
